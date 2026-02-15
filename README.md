@@ -31,11 +31,6 @@ The full theoretical description and methodological details are provided in the 
 
 ---
 
-## 📂 Repository Structure
-
-
----
-
 ## ⚙️ Methodology
 
 The debt structure is modelled as a directed graph:
